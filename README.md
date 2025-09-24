@@ -1,16 +1,32 @@
-## Hi there 👋
+Hey there, I'm Aditya! 👋
 
-<!--
-**aditya6305/aditya6305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Junior Software Developer 💻 who loves turning ideas into robust and scalable backend applications. Motivated by curiosity and a passion for growth, I thrive on solving problems and innovating. I'm always on the lookout for new technologies and ways to improve my craft. Continuous learning is my mantra—whether it's mastering a new framework or exploring the latest trends in DevOps and cloud computing ☁️. Always excited to collaborate, connect, and bring new ideas to life! 🌱
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Junior Software Developer with a passion for backend engineering and building reliable systems 💪
+
+Constantly seeking new challenges to expand my knowledge and improve my skills 🔍
+
+🛠️ Tech Stack
+
+Languages: Java ☕ | Python 🐍 | JavaScript ⚡
+
+Frameworks: Spring Boot 🌱
+
+Database: MySQL 🗄️
+
+Tools: GitHub 🐙 | Docker 🐳 
+
+Currently exploring: DevOps ⚙️ (cloud, CI/CD, automation) | Kubernetes 🚢
+
+🌱 Currently Learning
+
+Docker & Kubernetes 🐳 🚢
+
+
+📬 Connect with Me
+
+LinkedIn: aditya-ch-30a736254
+
+Email: adityachappati@gmail.com
