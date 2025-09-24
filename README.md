@@ -23,6 +23,6 @@ Docker & Kubernetes 🐳 🚢
 
 📬 Connect with Me
 
-LinkedIn: aditya-ch-30a736254
+LinkedIn:https://www.linkedin.com/in/aditya-ch-30a736254/
 
 Email: adityachappati@gmail.com
