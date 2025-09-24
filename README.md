@@ -4,8 +4,6 @@ Hey there, I'm Aditya! 👋
 
 Junior Software Developer with a passion for backend engineering and building reliable systems 💪
 
-Constantly seeking new challenges to expand my knowledge and improve my skills 🔍
-
 🛠️ Tech Stack
 
 Languages: Java ☕ | Python 🐍 | JavaScript ⚡
