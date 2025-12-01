@@ -18,7 +18,7 @@ Currently exploring: DevOps ⚙️ (cloud, CI/CD, automation) | Kubernetes 🚢
 
 🌱 Currently Learning
 
-Docker & Kubernetes 🐳 🚢
+Cloud 🐳 🚢
 
 
 📬 Connect with Me
